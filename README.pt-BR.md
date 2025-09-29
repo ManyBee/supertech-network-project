@@ -26,4 +26,4 @@ Projetar e implementar uma rede corporativa utilizando o **Cisco Packet Tracer**
 - Atribuição automática de IPs via DHCP funcionando corretamente  
 
 ## 📂 Arquivos
-- [`Relatório do Projeto de Rede da Empresa SuperTech.pdf`](report/Relatório%20do%20Projeto%20de%20Rede%20da%20Empresa%20SuperTech.pdf) → Relatório completo (com todas as imagens dentro)
+- [Relatório completo](https://github.com/user-attachments/files/22605525/Relatorio.do.Projeto.de.Rede.da.Empresa.SuperTech.pdf) → Relatório completo (com todas as imagens dentro)
