@@ -26,4 +26,4 @@ Design and implement a corporate network using **Cisco Packet Tracer**, focusing
 - Automatic IP assignment via DHCP successfully implemented  
 
 ## 📂 Files
-- [`Relatório do Projeto de Rede da Empresa SuperTech.pdf`](report/Relatório%20do%20Projeto%20de%20Rede%20da%20Empresa%20SuperTech.pdf) → Full report (all screenshots inside)
+- [Project PDF](https://github.com/user-attachments/files/22605525/Relatorio.do.Projeto.de.Rede.da.Empresa.SuperTech.pdf) → Full report (all screenshots inside)
